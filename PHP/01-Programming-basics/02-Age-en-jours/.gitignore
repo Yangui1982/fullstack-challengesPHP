@@ -1,0 +1,6 @@
+# Fichiers temporaires des systèmes et éditeurs
+*:Zone.Identifier
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
